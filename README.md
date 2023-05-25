@@ -1,7 +1,6 @@
-🔥Interactive NLP Papers
+# 🔥Interactive NLP Papers
 
 Must-read papers on [Interactive NLP](https://arxiv.org/abs/2305.13246): a new paradigm of NLP.
-
 
 
 ## Content
