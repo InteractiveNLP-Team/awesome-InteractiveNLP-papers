@@ -31,7 +31,7 @@ Must-read papers on [Interactive NLP](https://arxiv.org/abs/2305.13246): a new p
 - **Action** involves all kinds of outputs of language models such as text generation, requesting for external objects, text editing, etc. 
 - **Feedback** involves feedback messages passed from external objects to language models such as scoring from humans.
 
-![The Paradigm of Interactive Natural Language Processing.](assets/overview.png)
+<img src="assets/overview.png" width="60%">
 
 In iNLP, language models can interact with four kinds of objects (i.e., entities): 
 
