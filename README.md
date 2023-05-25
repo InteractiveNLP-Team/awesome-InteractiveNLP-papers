@@ -3,9 +3,25 @@
 Must-read papers on [Interactive NLP](https://arxiv.org/abs/2305.13246): a new paradigm of NLP.
 
 
+
 ## Content
 
-[toc]
+- [What is Interactive NLP?](#what-is-interactive-nlp)
+- [Keywords Convention](#keywords-convention)
+- [Paper](#paper)
+  - [Surveys and Position Papers](#surveys-and-position-papers)
+  - [Human-LM Interaction](#human-lm-interaction)
+  - [KB-LM Interaction](#kb-lm-interaction)
+  - [Model/Tool-LM Interaction](#model/tool-lm-interaction)
+  - [Environment-LM Interaction](#environment-lm-interaction)
+  - [Evaluation](#evaluation)
+  - [Application](#application)
+- [Related Projects](#related-projects)
+- [Contribution](#contribution)
+  - [Contributors](#contributors)
+  - [Contributing to this paper list](#contributing-to-this-paper-list)
+
+
 
 ## What is Interactive NLP?
 
@@ -83,7 +99,9 @@ In iNLP, language models can interact with four kinds of objects (i.e., entities
 
 
 
-## Contributors
+## Contribution
+
+### Contributors
 
 [   ![img](https://contrib.rocks/image?repo=ZenMoore/InteractiveNLP-papers) ](https://github.com/ZenMoore/InteractiveNLP-papers/graphs/contributors)
 
