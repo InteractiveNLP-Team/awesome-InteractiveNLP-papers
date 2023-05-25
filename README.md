@@ -35,7 +35,7 @@ Must-read papers on [Interactive NLP](https://arxiv.org/abs/2305.13246): a new p
 
 In iNLP, language models can interact with four kinds of objects (i.e., entities): 
 
-- interact with **humans **for better understanding and addressing user needs, personalizing responses, aligning with human values, and improving the overall user experience;
+- interact with **humans** for better understanding and addressing user needs, personalizing responses, aligning with human values, and improving the overall user experience;
 - interact with **knowledge bases** for enriching language representations with factual knowledge, enhancing the contextual relevance of responses, and dynamically leveraging external information to generate more accurate and informed responses;
 - interact with **models/tools** for effectively decomposing and addressing complex tasks, leveraging specialized expertise for specific subtasks, and fostering the simulation of social behaviors;
 - interact with **environments** for learning grounded representations of language, and effectively tackling embodied tasks such as reasoning, planning, and decision-making in response to environmental observations.
