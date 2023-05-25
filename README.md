@@ -12,7 +12,7 @@ Must-read papers on [Interactive NLP](https://arxiv.org/abs/2305.13246): a new p
   - [Surveys and Position Papers](#surveys-and-position-papers)
   - [Human-LM Interaction](#human-lm-interaction)
   - [KB-LM Interaction](#kb-lm-interaction)
-  - [Model/Tool-LM Interaction](#model/tool-lm-interaction)
+  - [Model/Tool-LM Interaction](#model-tool-lm-interaction)
   - [Environment-LM Interaction](#environment-lm-interaction)
   - [Evaluation](#evaluation)
   - [Application](#application)
