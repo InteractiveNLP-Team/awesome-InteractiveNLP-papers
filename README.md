@@ -48,6 +48,8 @@ In iNLP, language models can interact with four kinds of objects (i.e., entities
 
 ![img](https://img.shields.io/badge/-Prompting%20Chaining-orange) The interaction method used by the work.
 
+![img](https://img.shields.io/badge/-formal%20language-lightgrey) The interaction interface used by the work.
+
 ![img](https://img.shields.io/badge/Other-green) Other important information of the work.
 
 
