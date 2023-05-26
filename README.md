@@ -103,7 +103,7 @@ In iNLP, language models can interact with four kinds of objects (i.e., entities
 
 ### Contributors
 
-[   ![img](https://contrib.rocks/image?repo=ZenMoore/InteractiveNLP-papers) ](https://github.com/ZenMoore/InteractiveNLP-papers/graphs/contributors)
+[   ![img](https://contrib.rocks/image?repo=InteractiveNLP-Team/awesome-InteractiveNLP-papers) ](https://github.com/InteractiveNLP-Team/awesome-InteractiveNLP-papers/graphs/contributors)
 
 ### Contributing to this paper list
 
