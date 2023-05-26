@@ -1,4 +1,4 @@
-# Interactive NLP Papers🤖+👨‍💼📚![image](https://github.com/InteractiveNLP-Team/awesome-InteractiveNLP-papers/assets/16717289/451f7c50-f890-474e-9d6b-93299e0c3d1a)⚒️🌏 
+# Interactive NLP Papers🤖+👨‍💼📚🤗⚒️🌏 
 
 Must-read papers on [Interactive NLP](https://arxiv.org/abs/2305.13246): a new paradigm of NLP.
 
