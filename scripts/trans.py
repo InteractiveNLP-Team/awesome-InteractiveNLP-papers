@@ -4,6 +4,10 @@ import pandas as pd
 import pnlp
 
 
+must_cols = ["title", "url", "date", "author"]
+optional_cols = ["abbr", "method", "interface", "misc"]
+
+
 class Formater:
 
     base = "https://img.shields.io/badge/"
@@ -31,11 +35,10 @@ def trans(s: str) -> str:
 
 def df2md(df: pd.DataFrame) -> List[str]:
     data = []
-    needs = ["abbr", "method", "interface", "misc"]
     for v in df.itertuples():
         line = f"- **[{v.title}]({v.url})**, {v.date} "
         badges = []
-        for col in needs:
+        for col in optional_cols:
             val = getattr(v, col)
             if pd.isna(val):
                 continue
@@ -50,34 +53,36 @@ def df2md(df: pd.DataFrame) -> List[str]:
     return data
 
 
+def check_must_cols(df: pd.DataFrame):
+    for v in df.itertuples():
+        for col in must_cols:
+            val = getattr(v, col)
+            assert pd.notna(val), f"{col} of line {v.Index+1} cannot be null"
+
+
 def main():
-    cols = [
-        "title",
-        "url",
-        "date",
-        "abbr",
-        "method",
-        "interface",
-        "misc",
-        "author"]
     import argparse
     from pathlib import Path
 
+    cols = must_cols[:3] + optional_cols + must_cols[3:]
     parser = argparse.ArgumentParser(
         description="Transfer pandas excel to markdown needed")
-    parser.add_argument("-i", "--input_file", default=None,
-                        help=f"Input excel file with {cols} columns, without header")
+    parser.add_argument(
+        "-i",
+        "--input_file",
+        default=None,
+        help=f"Input excel file with {cols} columns, without header")
     args = parser.parse_args()
 
     if not args.input_file:
         print("An input_file is needed, run `-h` to get more info")
 
     out_file = Path(args.input_file).stem
-
     df = pd.read_excel(
         args.input_file,
         header=None,
         names=cols)
+    check_must_cols(df)
     data = df2md(df)
     pnlp.write_file(out_file + ".md", data)
 
