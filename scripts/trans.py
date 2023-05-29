@@ -47,6 +47,7 @@ def df2md(df: pd.DataFrame) -> List[str]:
             val = getattr(v, col)
             if pd.isna(val):
                 continue
+            val = val.replace("-", "--")
             func = getattr(Formater, col + "_format")
             val = trans(val)
             val_format = func(val)
