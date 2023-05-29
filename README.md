@@ -161,6 +161,187 @@ In iNLP, language models can interact with four kinds of objects (i.e., entities
 
 ### 🤖Model/🛠Tool-LM Interaction
 
+- **[Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442)**, 2023.04 ![img](https://img.shields.io/badge/-Generative%20Agents-blue) ![img](https://img.shields.io/badge/-Natural%20Language-lightgrey) ![img](https://img.shields.io/badge/Society-green)
+
+  *Joon Sung Park, Joseph C. O'Brien, Carrie J. Cai, Meredith Ringel Morris, Percy Liang, Michael S. Bernstein*.
+
+- **[ReAct: Synergizing reasoning and acting in language models](https://arxiv.org/abs/2210.03629)**, 2022.01 ![img](https://img.shields.io/badge/-ReAct-blue) ![img](https://img.shields.io/badge/-Prompt%20Chaining-orange) ![img](https://img.shields.io/badge/Chain%20of%20Thought,%20Tool-use-green)
+
+  *Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan, Yuan Cao*.
+
+- **[Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models](https://arxiv.org/abs/2303.04671)**, 2023.05 ![img](https://img.shields.io/badge/-Visual%20ChatGPT-blue) ![img](https://img.shields.io/badge/Chain%20of%20Thought,%20Tool-use-green)
+
+  *Chenfei Wu, Shengming Yin, Weizhen Qi, Xiaodong Wang, Zecheng Tang, Nan Duan*.
+
+- **[HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face](https://arxiv.org/abs/2303.17580)**, 2023.05 ![img](https://img.shields.io/badge/-HuggingGPT-blue) ![img](https://img.shields.io/badge/Tool-use-green)
+
+  *Yongliang Shen, Kaitao Song, Xu Tan, Dongsheng Li, Weiming Lu, Yueting Zhuang*.
+
+- **[CAMEL: Communicative Agents for "Mind" Exploration of Large Scale Language Model Society](https://arxiv.org/abs/2303.17760)**, 2023.03 ![img](https://img.shields.io/badge/-CAMEL-blue) ![img](https://img.shields.io/badge/-Prompt%20Chaining-orange) ![img](https://img.shields.io/badge/Society-green)
+
+  *Guohao Li, Hasan Abed Al Kader Hammoud, Hani Itani, Dmitrii Khizbullin, Bernard Ghanem*.
+
+- **[Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language](https://arxiv.org/abs/2204.00598)**, 2022.05 ![img](https://img.shields.io/badge/-Socratic%20Model-blue) ![img](https://img.shields.io/badge/Communication-green)
+
+  *Andy Zeng, Maria Attarian, Brian Ichter, Krzysztof Choromanski, Adrian Wong, Stefan Welker, Federico Tombari, Aveek Purohit, Michael Ryoo, Vikas Sindhwani, Johnny Lee, Vincent Vanhoucke, Pete Florence*.
+
+- **[MindCraft: Theory of Mind Modeling for Situated Dialogue in Collaborative Tasks](https://arxiv.org/abs/2109.06275)**, 2021.09 ![img](https://img.shields.io/badge/-MindCraft-blue) ![img](https://img.shields.io/badge/-Prompt%20Chaining-orange) ![img](https://img.shields.io/badge/-Natural%20Language-lightgrey) ![img](https://img.shields.io/badge/Theory%20of%20Mind,%20Communication-green)
+
+  *Cristian-Paul Bara, Sky CH-Wang, Joyce Chai*.
+
+- **[Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks](https://arxiv.org/abs/2211.12588)**, 2022.11 ![img](https://img.shields.io/badge/-PoT%20Prompting-blue) ![img](https://img.shields.io/badge/-Elicitive%20Prompting-orange) ![img](https://img.shields.io/badge/-Formal%20Language-lightgrey) ![img](https://img.shields.io/badge/Tool-use,%20Chain%20of%20Thought-green)
+
+  *Wenhu Chen, Xueguang Ma, Xinyi Wang, William W. Cohen*.
+
+- **[Toolformer: Language Models Can Teach Themselves to Use Tools](https://arxiv.org/abs/2302.04761)**, 2023.02 ![img](https://img.shields.io/badge/-Toolformer-blue) ![img](https://img.shields.io/badge/Tool-use-green)
+
+  *Timo Schick, Jane Dwivedi-Yu, Roberto Dessì, Roberta Raileanu, Maria Lomeli, Luke Zettlemoyer, Nicola Cancedda, Thomas Scialom*.
+
+- **[ART: Automatic multi-step reasoning and tool-use for large language models](https://arxiv.org/abs/2303.09014)**, 2023.03 ![img](https://img.shields.io/badge/-ART-blue) ![img](https://img.shields.io/badge/-Formal%20Language,%20Natural%20Language-lightgrey) ![img](https://img.shields.io/badge/Tool-use,%20Chain%20of%20Thought-green)
+
+  *Bhargavi Paranjape, Scott Lundberg, Sameer Singh, Hannaneh Hajishirzi, Luke Zettlemoyer, Marco Tulio Ribeiro*.
+
+- **[Small Models are valuable Plug-ins for large language models](https://arxiv.org/pdf/2305.08848.pdf)**, 2023.05 ![img](https://img.shields.io/badge/-SuperICL-blue) ![img](https://img.shields.io/badge/-Standard%20Prompting-orange)
+
+  *Canwen Xu, Yichong Xu, Shuohang Wang, Yang Liu, Chenguang Zhu, Julian McAuley*.
+
+- **[LEAST-TO-MOST PROMPTINGENABLESCOMPLEXREASONING IN LARGE LANGUAGE MODELS](https://arxiv.org/abs/2205.10625)**, 2022.05 ![img](https://img.shields.io/badge/-least-to-most%20prompting-blue) ![img](https://img.shields.io/badge/-Prompt%20Chaining-orange) ![img](https://img.shields.io/badge/Chain%20of%20Thought-green)
+
+  *Denny Zhou, Nathanael Schärli, Le Hou, Jason Wei, Nathan Scales, Xuezhi Wang, Dale Schuurmans, Claire Cui, Olivier Bousquet, Quoc Le, Ed Chi*.
+
+- **[Decomposed Prompting: A Modular Approach for Solving Complex Tasks](https://arxiv.org/abs/2210.02406)**, 2022.01 ![img](https://img.shields.io/badge/-Decomposed%20Prompting-blue) ![img](https://img.shields.io/badge/-Prompt%20Chaining-orange) ![img](https://img.shields.io/badge/Chain%20of%20Thought-green)
+
+  *Tushar Khot, Harsh Trivedi, Matthew Finlayson, Yao Fu, Kyle Richardson, Peter Clark, Ashish Sabharwal*.
+
+- **[ViperGPT: Visual Inference via Python Execution for Reasoning](https://arxiv.org/pdf/2303.08128.pdf)**, 2023.03 ![img](https://img.shields.io/badge/-ViperGPT-blue) ![img](https://img.shields.io/badge/-Elicitive%20Prompting-orange) ![img](https://img.shields.io/badge/-Formal%20Language-lightgrey) ![img](https://img.shields.io/badge/Tool-use-green)
+
+  *Dídac Surís,  Sachit Menon, Carl Vondrick*.
+
+- **[See,Think,Confirm:Interactive Prompting Between Vision and Language Models for Knowledge-based Visual Reasoning](https://arxiv.org/pdf/2301.05226.pdf)**, 2023.01 ![img](https://img.shields.io/badge/-IPVR-blue) ![img](https://img.shields.io/badge/-Prompt%20Chaining-orange) ![img](https://img.shields.io/badge/Tool-use-green)
+
+  *Zhenfang Chen, Qinhong Zhou, Yikang Shen, Yining Hong, Hao Zhang, Chuang Gan*.
+
+- **[Large Language Models Are Reasoning Teachers](https://arxiv.org/abs/2212.10071)**, 2022.12 ![img](https://img.shields.io/badge/-Fine-tune-CoT-blue) ![img](https://img.shields.io/badge/-Semi-Supervised%20Fine-Tuning,%20Elicitive%20Prompting-orange) ![img](https://img.shields.io/badge/Chain%20of%20Thought-green)
+
+  *Namgyu Ho, Laura Schmid, Se-Young Yun*.
+
+- **[STaR:Self-Taught ReasonerBootstrapping Reasoning With Reasoning](https://arxiv.org/pdf/2203.14465.pdf)**, 2022.03 ![img](https://img.shields.io/badge/-STaR-blue) ![img](https://img.shields.io/badge/-Elicitive%20Prompting,%20Semi-Supervised%20Fine-Tuning-orange) ![img](https://img.shields.io/badge/Chain%20of%20Thought-green)
+
+  *Eric Zelikman, Yuhuai Wu, Jesse Mu, Noah D. Goodman*.
+
+- **[Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://arxiv.org/pdf/2305.10601.pdf)**, 2023.05 ![img](https://img.shields.io/badge/-ToT-blue) ![img](https://img.shields.io/badge/-Prompt%20Chaining-orange) ![img](https://img.shields.io/badge/Chain%20of%20Thought-green)
+
+  *Shunyu Yao, Dian Yu, Jeffrey Zhao, Izhak Shafran, Thomas L. Griffiths, Yuan Cao, Karthik Narasimhan*.
+
+- **[Search-in-the-Chain: Towards Accurate, Credible and Traceable Large Language Models for Knowledge-intensive Tasks](https://arxiv.org/pdf/2304.14732v4.pdf)**, 2023.04 ![img](https://img.shields.io/badge/-SearChain-blue) ![img](https://img.shields.io/badge/-Prompt%20Chaining-orange) ![img](https://img.shields.io/badge/Tool-use,%20Chain%20of%20Thought-green)
+
+  *Shicheng Xu, Liang Pang, HuaWei Shen, Xueqi Cheng, Tat-Seng Chua*.
+
+- **[RECURRENTGPT: Interactive Generation of (Arbitrarily) Long Text](https://arxiv.org/pdf/2305.13304v1.pdf)**, 2023.05 ![img](https://img.shields.io/badge/-RecurrentGPT-blue) ![img](https://img.shields.io/badge/-Natural%20Language-lightgrey)
+
+  *Wangchunshu Zhou, Yuchen Eleanor Jiang, Peng Cui, Tiannan Wang, Zhenxin Xiao, Yifan Hou, Ryan Cotterell, Mrinmaya Sachan*.
+
+- **[PAL: Program-aided Language Models](https://arxiv.org/pdf/2211.10435v2.pdf)**, 2022.11 ![img](https://img.shields.io/badge/-PAL-blue) ![img](https://img.shields.io/badge/-Elicitive%20Prompting-orange) ![img](https://img.shields.io/badge/-Formal%20Language-lightgrey) ![img](https://img.shields.io/badge/Chain%20of%20Thought,%20Tool-use-green)
+
+  *Luyu Gao, Aman Madaan, Shuyan Zhou, Uri Alon, PengFei Liu, Yiming Yang, Jamie Callan, Graham Neubig*.
+
+- **[Internet-augmented language models through few-shot prompting for open-domain question answering](https://arxiv.org/pdf/2203.05115v2.pdf)**, 2023.05 ![img](https://img.shields.io/badge/Tool-use-green)
+
+  *Angeliki Lazaridou, Elena Gribovskaya, Wojciech Stokowiec, Nikolai Grigorev*.
+
+- **[Recitation-Augmented Language Models](https://arxiv.org/pdf/2210.01296v2.pdf)**, 2022.01 ![img](https://img.shields.io/badge/-RECITE-blue) ![img](https://img.shields.io/badge/-Elicitive%20Prompting-orange) ![img](https://img.shields.io/badge/-Natural%20Language-lightgrey) ![img](https://img.shields.io/badge/Chain%20of%20Thought-green)
+
+  *Zhiqing Sun, Xuezhi Wang, Yi Tay, Yiming Yang, Denny Zhou*.
+
+- **[Iteratively Prompt Pre-trained Language Models for Chain of Thought](https://arxiv.org/pdf/2203.08383v3.pdf)**, 2022.03 ![img](https://img.shields.io/badge/-Prompt%20Chaining-orange) ![img](https://img.shields.io/badge/-Natural%20Language-lightgrey) ![img](https://img.shields.io/badge/Chain%20of%20Thought-green)
+
+  *Boshi Wang, Xiang Deng, Huan Sun*.
+
+- **[MEASURING AND NARROWING THE COMPOSITIONALITY GAP IN LANGUAGE MODELS](https://arxiv.org/pdf/2210.03350v2.pdf)**, 2022.01 ![img](https://img.shields.io/badge/-self-ask-blue) ![img](https://img.shields.io/badge/-Prompt%20Chaining-orange) ![img](https://img.shields.io/badge/Tool-use,%20Chain%20of%20Thought-green)
+
+  *Ofir Press, Muru Zhang, Sewon Min, Ludwig Schmidt, Noah A. Smith, Mike Lewis*.
+
+- **[Self-Refine: Iterative Refinement with Self-Feedback](https://arxiv.org/pdf/2303.17651v1.pdf)**, 2023.03 ![img](https://img.shields.io/badge/-self-refine-blue) ![img](https://img.shields.io/badge/-Prompt%20Chaining-orange) ![img](https://img.shields.io/badge/-Natural%20Language-lightgrey) ![img](https://img.shields.io/badge/Self-Interaction-green)
+
+  *Aman Madaan, Niket Tandon, Prakhar Gupta, Skyler Hallinan, Luyu Gao, Sarah Wiegreffe, Uri Alon, Nouha Dziri, Shrimai Prabhumoye, Yiming Yang, Sean Welleck, Bodhisattwa Prasad Majumder, Shashank Gupta, Amir Yazdanbakhsh, Peter Clark*.
+
+- **[LEVER: Learning to Verify Language-to-Code Generation with Execution](https://arxiv.org/pdf/2302.08468v1.pdf)**, 2023.02 ![img](https://img.shields.io/badge/-LEVER-blue) ![img](https://img.shields.io/badge/-Standard%20Prompting-orange) ![img](https://img.shields.io/badge/-Formal%20Language,%20Natural%20Language-lightgrey) ![img](https://img.shields.io/badge/Tool-use-green)
+
+  *Ansong Ni, Srini Iyer, Dragomir Radev, Ves Stoyanov, Wen-tau Yih, Sida I. Wang, Xi Victoria Lin*.
+
+- **[Computational Language Acquisition with Theory of Mind](https://arxiv.org/pdf/2303.01502v1.pdf)**, 2023.03 ![img](https://img.shields.io/badge/Theory%20of%20Mind-green)
+
+  *Andy Liu, Hao Zhu, Emmy Liu, Yonatan Bisk, Graham Neubig*.
+
+- **[Few-shot Language Coordination by Modeling Theory of Mind](https://arxiv.org/pdf/2107.05697v1.pdf)**, 2021.07 ![img](https://img.shields.io/badge/Theory%20of%20Mind-green)
+
+  *Hao Zhu, Graham Neubig, Yonatan Bisk*.
+
+- **[OpenAGI: When LLM Meets Domain Experts](https://arxiv.org/pdf/2304.04370v2.pdf)**, 2023.04 ![img](https://img.shields.io/badge/-OpenAGI-blue) ![img](https://img.shields.io/badge/-Standard%20Prompting,%20Reinforcement%20Learning-orange) ![img](https://img.shields.io/badge/-Natural%20Language-lightgrey) ![img](https://img.shields.io/badge/Tool-use-green)
+
+  *Yingqiang Ge, Wenyue Hua, Jianchao Ji, Juntao Tan, Shuyuan Xu, Yongfeng Zhang*.
+
+- **[MM-ReAct](https://arxiv.org/pdf/2303.11381v1.pdf)**, 2023.03 ![img](https://img.shields.io/badge/-MM-ReAct-blue) ![img](https://img.shields.io/badge/-Prompt%20Chaining-orange) ![img](https://img.shields.io/badge/Tool-use-green)
+
+  *Zhengyuan Yang, Linjie Li, JianFeng Wang, Kevin Lin, Ehsan Azarnasab, Faisal Ahmed, Zicheng Liu, Ce Liu, Michael Zeng, Lijuan Wang*.
+
+- **[Prompt, Generate, then Cache: Cascade of Foundation Models makes Strong Few-shot Learners](https://arxiv.org/pdf/2303.02151v1.pdf)**, 2023.03 ![img](https://img.shields.io/badge/-CaFo-blue) ![img](https://img.shields.io/badge/-Prompt%20Chaining-orange) ![img](https://img.shields.io/badge/-Natural%20Language,%20Machine%20Language-lightgrey) ![img](https://img.shields.io/badge/Tool-use-green)
+
+  *Renrui Zhang, Xiangfei Hu, Bohao Li, Siyuan Huang, Hanqiu Deng, Hongsheng Li, Yu Qiao, Peng Gao*.
+
+- **[Principle-Driven Self-Alignment of Language Models from Scratch with Minimal Human Supervision](https://arxiv.org/pdf/2305.03047v1.pdf)**, 2023.05 ![img](https://img.shields.io/badge/-SELF-ALIGN-blue) ![img](https://img.shields.io/badge/-Instruction%20Tuning,Semi-Supervised%20Fine-Tuning-orange) ![img](https://img.shields.io/badge/-Natural%20Language-lightgrey) ![img](https://img.shields.io/badge/Alignment-green)
+
+  *Zhiqing Sun, Yikang Shen, Qinhong Zhou, Hongxin Zhang, Zhenfang Chen, David Cox, Yiming Yang, Chuang Gan*.
+
+- **[Think Before You Act: Unified Policy for Interleaving Language Reasoning with Actions](https://arxiv.org/pdf/2304.11063v1.pdf)**, 2023.04 ![img](https://img.shields.io/badge/-Elicitive%20Prompting-orange) ![img](https://img.shields.io/badge/-Natural%20Language,%20Machine%20Language-lightgrey) ![img](https://img.shields.io/badge/Chain%20of%20Thought-green)
+
+  *Lina Mezghani, Piotr Bojanowski, Karteek Alahari, Sainbayar Sukhbaatar*.
+
+- **[TALM: Tool Augmented Language Models](https://arxiv.org/pdf/2205.12255v1.pdf)**, 2022.05 ![img](https://img.shields.io/badge/-TALM-blue) ![img](https://img.shields.io/badge/-Instruction%20Tuning,Semi-Supervised%20Fine-Tuning-orange) ![img](https://img.shields.io/badge/-Formal%20Language,%20Natural%20Language-lightgrey) ![img](https://img.shields.io/badge/Tool-use-green)
+
+  *Aaron Parisi, Yao Zhao, Noah Fiedel*.
+
+- **[Successive Prompting for Decomposing Complex Questions](https://arxiv.org/pdf/2212.04092v1.pdf)**, 2022.12 ![img](https://img.shields.io/badge/-Successive%20Prompting-blue) ![img](https://img.shields.io/badge/-Prompt%20Chaining-orange) ![img](https://img.shields.io/badge/Chain%20of%20Thought-green)
+
+  *Dheeru Dua, Shivanshu Gupta, Sameer Singh, Matt Gardner*.
+
+- **[REFINER: Reasoning Feedback on Intermediate Representations](https://arxiv.org/pdf/2304.01904v1.pdf)**, 2023.04 ![img](https://img.shields.io/badge/-REFINER-blue) ![img](https://img.shields.io/badge/-Semi-Supervised%20Fine-Tuning,%20Elicitive%20Prompting-orange) ![img](https://img.shields.io/badge/-Natural%20Language-lightgrey) ![img](https://img.shields.io/badge/Chain%20of%20Thought,%20Reasoning-green)
+
+  *Debjit Paul, Mete Ismayilzada, Maxime Peyrard, Beatriz Borges, Antoine Bosselut, Robert West, Boi Faltings*.
+
+- **[LeTI: Learning to Generate from Textual Interactions](https://arxiv.org/pdf/2305.10314v1.pdf)**, 2023.05 ![img](https://img.shields.io/badge/-LeTI-blue) ![img](https://img.shields.io/badge/-Prompt%20Chaining-orange) ![img](https://img.shields.io/badge/-Formal%20Language,%20Natural%20Language-lightgrey) ![img](https://img.shields.io/badge/Tool-use-green)
+
+  *Xingyao Wang, Hao Peng, Reyhaneh Jabbarvand, Heng Ji*.
+
+- **[InternGPT: Solving Vision-Centric Tasks by Interacting with Chatbots Beyond Language](https://arxiv.org/pdf/2305.05662v3.pdf)**, 2023.05 ![img](https://img.shields.io/badge/-InternGPT-blue) ![img](https://img.shields.io/badge/-Formal%20Language,%20Natural%20Language-lightgrey) ![img](https://img.shields.io/badge/Tool-use-green)
+
+  *Zhaoyang Liu, Yinan He, Wenhai Wang, Weiyun Wang, Yi Wang, Shoufa Chen, Qinglong Zhang, Yang Yang, Qingyun Li, Jiashuo Yu, Kunchang Li, Zhe Chen, Xue Yang, Xizhou Zhu, Yali Wang, LiMin Wang, Ping Luo, Jifeng Dai, Yu Qiao*.
+
+- **[Human-level play in the game of Diplomacy by combining language models with strategic reasoning](https://www.science.org/doi/10.1126/science.ade9097)**, 2022.11 ![img](https://img.shields.io/badge/-Cicero-blue) ![img](https://img.shields.io/badge/-Reinforcement%20Learning-orange) ![img](https://img.shields.io/badge/-Natural%20Language-lightgrey) ![img](https://img.shields.io/badge/Decision%20Making-green)
+
+  *Anton Bakhtin, Noam Brown, Emily Dinan, Gabriele Farina, Colin Flaherty, Daniel Fried, Andrew Goff, Jonathan Gray, Hengyan Hu, Athul Paul Jacob, Mojtaba Komeili, Karthik Konath, Minae Kwon, Adam Lerer, Mike Lewis, Alexander H. Miller, Sash Mitts, Aditya Renduchintala, Stephen Roller, Dirk Rowe, Weiyan Shi, Joe Spisak, Alexander Wei, David Wu, Hugh Zhang, Markus Zijlstra*.
+
+- **[Generating Sequences by Learning to Self-Correct](https://arxiv.org/abs/2211.00053)**, 2022.01 ![img](https://img.shields.io/badge/-Self-Correction-blue) ![img](https://img.shields.io/badge/-Semi-Supervised%20Fine-Tuning-orange) ![img](https://img.shields.io/badge/-Natural%20Language,%20Edits-lightgrey) ![img](https://img.shields.io/badge/Chain%20of%20Thought-green)
+
+  *Sean Welleck, Ximing Lu, Peter West, Faeze Brahman, Tianxiao Shen, Daniel Khashabi, Yejin Choi*.
+
+- **[ChatGPT-steered Editing Instructor for Customization of Abstractive Summarization](https://arxiv.org/pdf/2305.02483v1.pdf)**, 2023.05 ![img](https://img.shields.io/badge/-Semi-Supervised%20Fine-Tuning,%20Prompt%20Chaining-orange) ![img](https://img.shields.io/badge/-Natural%20Language,%20Edits-lightgrey) ![img](https://img.shields.io/badge/Chain%20of%20Thought-green)
+
+  *Wen Xiao, Yujia Xie, Giuseppe Carenini, Pengcheng He*.
+
+- **[ChatGPT Asks, BLIP-2 Answers: Automatic Questioning Towards Enriched Visual Descriptions](https://arxiv.org/pdf/2303.06594v1.pdf)**, 2023.03 ![img](https://img.shields.io/badge/-ChatCaptioner-blue) ![img](https://img.shields.io/badge/-Prompt%20Chaining-orange) ![img](https://img.shields.io/badge/-Natural%20Language-lightgrey) ![img](https://img.shields.io/badge/Tool-use-green)
+
+  *Deyao Zhu, Jun Chen, Kilichbek Haydarov, Xiaoqian Shen, Wenxuan Zhang, Mohamed Elhoseiny*.
+
+- **[Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models](https://arxiv.org/pdf/2304.09842v2.pdf)**, 2023.04 ![img](https://img.shields.io/badge/-Chameleon-blue) ![img](https://img.shields.io/badge/-Formal%20Language,%20Natural%20Language-lightgrey) ![img](https://img.shields.io/badge/Tool-use-green)
+
+  *Pan Lu, Baolin Peng, Hao Cheng, Michel Galley, Kai-Wei Chang, Ying Nian Wu, Song-Chun Zhu, Jianfeng Gao*.
+
+- **[Baize: An Open-Source Chat Model with Parameter-Efficient Tuning on Self-Chat Data](https://arxiv.org/pdf/2304.01196v3.pdf)**, 2023.04 ![img](https://img.shields.io/badge/-Baize-blue) ![img](https://img.shields.io/badge/-Parameter-Efficient%20Fine-Tuning,%20Semi-Supervised%20Fine-Tuning-orange) ![img](https://img.shields.io/badge/-Natural%20Language-lightgrey) ![img](https://img.shields.io/badge/Chat-green)
+
+  *Canwen Xu, Daya Guo, Nan Duan, Julian McAuley*.
+
+
 ### 🌎Environment-LM Interaction
 
 ### 👍Evaluation

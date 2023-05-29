@@ -36,7 +36,12 @@ def trans(s: str) -> str:
 def df2md(df: pd.DataFrame) -> List[str]:
     data = []
     for v in df.itertuples():
-        line = f"- **[{v.title}]({v.url})**, {v.date} "
+        date = str(v.date)
+        year = date[:4]
+        month = date[4:].strip(".").zfill(2)
+        date = f"{year}.{month}"
+
+        line = f"- **[{v.title}]({v.url})**, {date} "
         badges = []
         for col in optional_cols:
             val = getattr(v, col)
