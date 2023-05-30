@@ -372,3 +372,15 @@ In iNLP, language models can interact with four kinds of objects (i.e., entities
 ### Contributing to this paper list
 
 - There are cases where we miss important works in this field, please contribute to this repo! Thanks for the efforts in advance.
+
+## Citation
+If you find this paper list helpful, please consider citing our paper:
+
+```latex
+@article{wang2023interactive,
+  title={Interactive Natural Language Processing},
+  author={Wang, Zekun and Zhang, Ge and Yang, Kexin and Shi, Ning and Zhou, Wangchunshu and Hao, Shaochun and Xiong, Guangzheng and Li, Yizhi and Sim, Mong Yuan and Chen, Xiuying and others},
+  journal={arXiv preprint arXiv:2305.13246},
+  year={2023}
+}
+```
