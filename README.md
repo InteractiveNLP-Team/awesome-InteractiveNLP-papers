@@ -200,13 +200,13 @@ In iNLP, language models can interact with four kinds of objects (i.e., entities
 - **[Recitation-Augmented Language Models](https://openreview.net/pdf?id=-cqvvvb-NkI)**, 2023.05 ![img](https://img.shields.io/badge/-RECITE-blue) ![img](https://img.shields.io/badge/-Elicitive%20Prompting-orange) ![img](https://img.shields.io/badge/-Natural%20Language-lightgrey) ![img](https://img.shields.io/badge/-Corpus%20Knowledge-green)
   *Zhiqing Sun, Xuezhi Wang, Yi Tay, Yiming Yang, Denny
 
-- **[Mind's Eye: Grounded Language Model Reasoning through Simulation](https://openreview.net/pdf?id=4rXMRuoJlai)**, 2023.05 ![img](https://img.shields.io/badge/-Elicitive%20Prompting-orange) ![img](https://img.shields.io/badge/-Formal%20Language-lightgrey) ![img](https://img.shields.io/badge/-Internet%20Knowledge-green)
+- **[Mind's Eye: Grounded Language Model Reasoning through Simulation](https://openreview.net/pdf?id=4rXMRuoJlai)**, 2023.05 ![img](https://img.shields.io/badge/-Mind%E2%80%99s%20Eye-blue) ![img](https://img.shields.io/badge/-Elicitive%20Prompting-orange) ![img](https://img.shields.io/badge/-Formal%20Language-lightgrey) ![img](https://img.shields.io/badge/-Internet%20Knowledge-green)
   *Ruibo Liu, Jason Wei, Shixiang Shane Gu, Te-Yen Wu, Soroush Vosoughi, Claire Cui, Denny Zhou, Andrew M Dai*
 
-- **[Don't Generate, Discriminate: A Proposal for Grounding Language Models to Real-World Environments](https://arxiv.org/pdf/2212.09736)**, 2023.10 ![img](https://img.shields.io/badge/-Message%20Fusion-green) ![img](https://img.shields.io/badge/-Natural%20Language-lightgrey) ![img](https://img.shields.io/badge/-Internet%20Knowledge-green)
+- **[Don't Generate, Discriminate: A Proposal for Grounding Language Models to Real-World Environments](https://arxiv.org/pdf/2212.09736)**, 2023.10 ![img](https://img.shields.io/badge/-Pangu-blue) ![img](https://img.shields.io/badge/-Message%20Fusion-orange) ![img](https://img.shields.io/badge/-Natural%20Language-lightgrey) ![img](https://img.shields.io/badge/-Internet%20Knowledge-green)
   *Yu Gu, Xiang Deng, Yu Su*
 
-- **[Check Your Facts and Try Again: Improving Large Language Models with External Knowledge and Automated Feedback](https://arxiv.org/pdf/2302.12813)**, 2023.02 ![img](https://img.shields.io/badge/-Prompt%20Chaining-green) ![img](https://img.shields.io/badge/-Natural%20Language-lightgrey) ![img](https://img.shields.io/badge/-Internet%20Knowledge-green)
+- **[Check Your Facts and Try Again: Improving Large Language Models with External Knowledge and Automated Feedback](https://arxiv.org/pdf/2302.12813)**, 2023.02 ![img](https://img.shields.io/badge/-LLM--Augmenter-blue) ![img](https://img.shields.io/badge/-Prompt%20Chaining-orange) ![img](https://img.shields.io/badge/-Natural%20Language-lightgrey) ![img](https://img.shields.io/badge/-Internet%20Knowledge-green)
   *Baolin Peng, Michel Galley, Pengcheng He, Hao Cheng, Yujia Xie, Yu Hu, Qiuyuan Huang, Lars Liden, Zhou Yu, Weizhu Chen, Jianfeng Gao*
 
 ### 🤖Model/🛠Tool-LM Interaction
