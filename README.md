@@ -232,7 +232,7 @@ In iNLP, language models can interact with four kinds of objects (i.e., entities
 
   *Joon Sung Park, Joseph C. O'Brien, Carrie J. Cai, Meredith Ringel Morris, Percy Liang, Michael S. Bernstein*.
 
-- **[ReAct: Synergizing reasoning and acting in language models](https://arxiv.org/abs/2210.03629)**, 2022.01 ![img](https://img.shields.io/badge/-ReAct-blue) ![img](https://img.shields.io/badge/-Prompt%20Chaining-orange) ![img](https://img.shields.io/badge/Chain%20of%20Thought,%20Tool--use-green)
+- **[ReAct: Synergizing reasoning and acting in language models](https://arxiv.org/abs/2210.03629)**, 2022.10 ![img](https://img.shields.io/badge/-ReAct-blue) ![img](https://img.shields.io/badge/-Prompt%20Chaining-orange) ![img](https://img.shields.io/badge/Chain%20of%20Thought,%20Tool--use-green)
 
   *Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan, Yuan Cao*.
 
@@ -276,7 +276,7 @@ In iNLP, language models can interact with four kinds of objects (i.e., entities
 
   *Denny Zhou, Nathanael Schärli, Le Hou, Jason Wei, Nathan Scales, Xuezhi Wang, Dale Schuurmans, Claire Cui, Olivier Bousquet, Quoc Le, Ed Chi*.
 
-- **[Decomposed Prompting: A Modular Approach for Solving Complex Tasks](https://arxiv.org/abs/2210.02406)**, 2022.01 ![img](https://img.shields.io/badge/-Decomposed%20Prompting-blue) ![img](https://img.shields.io/badge/-Prompt%20Chaining-orange) ![img](https://img.shields.io/badge/Chain%20of%20Thought-green)
+- **[Decomposed Prompting: A Modular Approach for Solving Complex Tasks](https://arxiv.org/abs/2210.02406)**, 2022.10 ![img](https://img.shields.io/badge/-Decomposed%20Prompting-blue) ![img](https://img.shields.io/badge/-Prompt%20Chaining-orange) ![img](https://img.shields.io/badge/Chain%20of%20Thought-green)
 
   *Tushar Khot, Harsh Trivedi, Matthew Finlayson, Yao Fu, Kyle Richardson, Peter Clark, Ashish Sabharwal*.
 
@@ -316,7 +316,7 @@ In iNLP, language models can interact with four kinds of objects (i.e., entities
 
   *Angeliki Lazaridou, Elena Gribovskaya, Wojciech Stokowiec, Nikolai Grigorev*.
 
-- **[Recitation-Augmented Language Models](https://arxiv.org/pdf/2210.01296v2.pdf)**, 2022.01 ![img](https://img.shields.io/badge/-RECITE-blue) ![img](https://img.shields.io/badge/-Elicitive%20Prompting-orange) ![img](https://img.shields.io/badge/-Natural%20Language-lightgrey) ![img](https://img.shields.io/badge/Chain%20of%20Thought-green)
+- **[Recitation-Augmented Language Models](https://arxiv.org/pdf/2210.01296v2.pdf)**, 2022.10 ![img](https://img.shields.io/badge/-RECITE-blue) ![img](https://img.shields.io/badge/-Elicitive%20Prompting-orange) ![img](https://img.shields.io/badge/-Natural%20Language-lightgrey) ![img](https://img.shields.io/badge/Chain%20of%20Thought-green)
 
   *Zhiqing Sun, Xuezhi Wang, Yi Tay, Yiming Yang, Denny Zhou*.
 
@@ -324,7 +324,7 @@ In iNLP, language models can interact with four kinds of objects (i.e., entities
 
   *Boshi Wang, Xiang Deng, Huan Sun*.
 
-- **[MEASURING AND NARROWING THE COMPOSITIONALITY GAP IN LANGUAGE MODELS](https://arxiv.org/pdf/2210.03350v2.pdf)**, 2022.01 ![img](https://img.shields.io/badge/-self--ask-blue) ![img](https://img.shields.io/badge/-Prompt%20Chaining-orange) ![img](https://img.shields.io/badge/Tool--use,%20Chain%20of%20Thought-green)
+- **[MEASURING AND NARROWING THE COMPOSITIONALITY GAP IN LANGUAGE MODELS](https://arxiv.org/pdf/2210.03350v2.pdf)**, 2022.10 ![img](https://img.shields.io/badge/-self--ask-blue) ![img](https://img.shields.io/badge/-Prompt%20Chaining-orange) ![img](https://img.shields.io/badge/Tool--use,%20Chain%20of%20Thought-green)
 
   *Ofir Press, Muru Zhang, Sewon Min, Ludwig Schmidt, Noah A. Smith, Mike Lewis*.
 
@@ -388,7 +388,7 @@ In iNLP, language models can interact with four kinds of objects (i.e., entities
 
   *Anton Bakhtin, Noam Brown, Emily Dinan, Gabriele Farina, Colin Flaherty, Daniel Fried, Andrew Goff, Jonathan Gray, Hengyan Hu, Athul Paul Jacob, Mojtaba Komeili, Karthik Konath, Minae Kwon, Adam Lerer, Mike Lewis, Alexander H. Miller, Sash Mitts, Aditya Renduchintala, Stephen Roller, Dirk Rowe, Weiyan Shi, Joe Spisak, Alexander Wei, David Wu, Hugh Zhang, Markus Zijlstra*.
 
-- **[Generating Sequences by Learning to Self-Correct](https://arxiv.org/abs/2211.00053)**, 2022.01 ![img](https://img.shields.io/badge/-Self--Correction-blue) ![img](https://img.shields.io/badge/-Semi--Supervised%20Fine--Tuning-orange) ![img](https://img.shields.io/badge/-Natural%20Language,%20Edits-lightgrey) ![img](https://img.shields.io/badge/Chain%20of%20Thought-green)
+- **[Generating Sequences by Learning to Self-Correct](https://arxiv.org/abs/2211.00053)**, 2022.10 ![img](https://img.shields.io/badge/-Self--Correction-blue) ![img](https://img.shields.io/badge/-Semi--Supervised%20Fine--Tuning-orange) ![img](https://img.shields.io/badge/-Natural%20Language,%20Edits-lightgrey) ![img](https://img.shields.io/badge/Chain%20of%20Thought-green)
 
   *Sean Welleck, Ximing Lu, Peter West, Faeze Brahman, Tianxiao Shen, Daniel Khashabi, Yejin Choi*.
 
