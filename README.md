@@ -88,7 +88,7 @@ In iNLP, language models can interact with four kinds of objects (i.e., entities
 
   *Amelia Glaese, Nat McAleese, Maja Trębacz, John Aslanides, Vlad Firoiu, Timo Ewalds, Maribeth Rauh, Laura Weidinger, Martin Chadwick, Phoebe Thacker, Lucy Campbell-Gillingham, Jonathan Uesato, Po-Sen Huang, Ramona Comanescu, Fan Yang, Abigail See, Sumanth Dathathri, Rory Greig, Charlie Chen, Doug Fritz, Jaume Sanchez Elias, Richard Green, Soňa Mokrá, Nicholas Fernando, Boxi Wu, Rachel Foley, Susannah Young, Iason Gabriel, William Isaac, John Mellor, Demis Hassabis, Koray Kavukcuoglu, Lisa Anne Hendricks, Geoffrey Irving*.
 
-- **[AI Chains: Transparent and Controllable Human-AI Interaction by Chaining Large Language Model Prompts](https://arxiv.org/abs/2110.01691)**, 2021.1 ![img](https://img.shields.io/badge/-AI%20Chains-blue) ![img](https://img.shields.io/badge/-Prompt%20Chaining-orange) ![img](https://img.shields.io/badge/-Natural%20Language-lightgrey) ![img](https://img.shields.io/badge/Configuration-green)
+- **[AI Chains: Transparent and Controllable Human-AI Interaction by Chaining Large Language Model Prompts](https://arxiv.org/abs/2110.01691)**, 2021.10 ![img](https://img.shields.io/badge/-AI%20Chains-blue) ![img](https://img.shields.io/badge/-Prompt%20Chaining-orange) ![img](https://img.shields.io/badge/-Natural%20Language-lightgrey) ![img](https://img.shields.io/badge/Configuration-green)
 
   *Tongshuang Wu, Michael Terry, Carrie J. Cai*.
 
@@ -108,7 +108,7 @@ In iNLP, language models can interact with four kinds of objects (i.e., entities
 
   *Hanze Dong, Wei Xiong, Deepanshu Goyal, Rui Pan, Shizhe Diao, Jipeng Zhang, Kashun Shum, Tong Zhang*.
 
-- **[Interactive Language: Talking to Robots in Real Time](https://arxiv.org/abs/2210.06407)**, 2022.1 ![img](https://img.shields.io/badge/-Interactive%20Language-blue) ![img](https://img.shields.io/badge/-Imitation%20Learning-orange) ![img](https://img.shields.io/badge/-Natural%20Language-lightgrey) ![img](https://img.shields.io/badge/Chat-green)
+- **[Interactive Language: Talking to Robots in Real Time](https://arxiv.org/abs/2210.06407)**, 2022.10 ![img](https://img.shields.io/badge/-Interactive%20Language-blue) ![img](https://img.shields.io/badge/-Imitation%20Learning-orange) ![img](https://img.shields.io/badge/-Natural%20Language-lightgrey) ![img](https://img.shields.io/badge/Chat-green)
 
   *Corey Lynch, Ayzaan Wahid, Jonathan Tompson, Tianli Ding, James Betker, Robert Baruch, Travis Armstrong, Pete Florence*.
 
@@ -116,7 +116,7 @@ In iNLP, language models can interact with four kinds of objects (i.e., entities
 
   *Nikhil Mehta, Milagro Teruel, Patricio Figueroa Sanz, Xin Deng, Ahmed Hassan Awadallah, Julia Kiseleva*.
 
-- **[Is Reinforcement Learning (Not) for Natural Language Processing: Benchmarks, Baselines, and Building Blocks for Natural Language Policy Optimization](https://arxiv.org/abs/2210.01241)**, 2022.1 ![img](https://img.shields.io/badge/-RL4LMs-blue) ![img](https://img.shields.io/badge/-Reinforcement%20Learning-orange) ![img](https://img.shields.io/badge/Feedback-green)
+- **[Is Reinforcement Learning (Not) for Natural Language Processing: Benchmarks, Baselines, and Building Blocks for Natural Language Policy Optimization](https://arxiv.org/abs/2210.01241)**, 2022.10 ![img](https://img.shields.io/badge/-RL4LMs-blue) ![img](https://img.shields.io/badge/-Reinforcement%20Learning-orange) ![img](https://img.shields.io/badge/Feedback-green)
 
   *Rajkumar Ramamurthy, Prithviraj Ammanabrolu, Kianté Brantley, Jack Hessel, Rafet Sifa, Christian Bauckhage, Hannaneh Hajishirzi, Yejin Choi*.
 
