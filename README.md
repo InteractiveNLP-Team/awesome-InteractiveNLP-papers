@@ -158,55 +158,55 @@ In iNLP, language models can interact with four kinds of objects (i.e., entities
 
 
 ### 📚KB-LM Interaction
-- **[Atlas: Few-shot learning with retrieval augmented language models](https://arxiv.org/pdf/2208.03299.pdf)**, 2022.08 ![img](https://img.shields.io/badge/-Atlas-blue) ![img](https://img.shields.io/badge/-Parameter%20Efficient%20Fine--Tuning-orange) ![img](https://img.shields.io/badge/-Natural%20Language-lightgrey) ![img](https://img.shields.io/badge/-Corpus%20Knowledge-green)
+- **[Atlas: Few-shot learning with retrieval augmented language models](https://arxiv.org/pdf/2208.03299.pdf)**, 2022.08 ![img](https://img.shields.io/badge/-Atlas-blue) ![img](https://img.shields.io/badge/-Corpus%20Knowledge-green)
   *Gautier Izacard, Patrick Lewis, Maria Lomeli, Lucas Hosseini, Fabio Petroni, Timo Schick, Jane Dwivedi-Yu, Armand Joulin, Sebastian Riedel, Edouard Grave*
 
-- **[MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge](https://openreview.net/pdf?id=rc8o_j8I8PX)**, 2022.09 ![img](https://img.shields.io/badge/-MineDojo-blue) ![img](https://img.shields.io/badge/-Reinforcement%20Learning-orange) ![img](https://img.shields.io/badge/-Natural%20Language-lightgrey) ![img](https://img.shields.io/badge/-Internet%20Knowledge-green)
+- **[MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge](https://openreview.net/pdf?id=rc8o_j8I8PX)**, 2022.09 ![img](https://img.shields.io/badge/-MineDojo-blue) ![img](https://img.shields.io/badge/-Reinforcement%20Learning-orange) ![img](https://img.shields.io/badge/-Internet%20Knowledge-green)
   *Linxi Fan, Guanzhi Wang, Yunfan Jiang, Ajay Mandlekar, Yuncong Yang, Haoyi Zhu, Andrew Tang, De-An Huang, Yuke Zhu, Anima Anandkumar*
 
-- **[WebGPT: Browser-assisted question-answering with human feedback](https://arxiv.org/pdf/2112.09332.pdf)**, 2021.12 ![img](https://img.shields.io/badge/-WebGPT-blue) ![img](https://img.shields.io/badge/-Reinforcement%20Learning-orange) ![img](https://img.shields.io/badge/-Natural%20Language-lightgrey) ![img](https://img.shields.io/badge/-Internet%20Knowledge-green)
+- **[WebGPT: Browser-assisted question-answering with human feedback](https://arxiv.org/pdf/2112.09332.pdf)**, 2021.12 ![img](https://img.shields.io/badge/-WebGPT-blue) ![img](https://img.shields.io/badge/-Reinforcement%20Learning-orange) ![img](https://img.shields.io/badge/-Internet%20Knowledge-green)
   *Reiichiro Nakano, Jacob Hilton, Suchir Balaji, Jeff Wu, Long Ouyang, Christina Kim, Christopher Hesse, Shantanu Jain, Vineet Kosaraju, William Saunders, Xu Jiang, Karl Cobbe, Tyna Eloundou, Gretchen Krueger, Kevin Button, Matthew Knight, Benjamin Chess, John Schulman*
 
-- **[Improving language models by retrieving from trillions of tokens](https://arxiv.org/pdf/2112.04426.pdf)**, 2022.07 ![img](https://img.shields.io/badge/-Retro-blue) ![img](https://img.shields.io/badge/-Message%20Fusion-orange) ![img](https://img.shields.io/badge/-Natural%20Language-lightgrey) ![img](https://img.shields.io/badge/-Corpus%20Knowledge-green)
+- **[Improving language models by retrieving from trillions of tokens](https://arxiv.org/pdf/2112.04426.pdf)**, 2022.07 ![img](https://img.shields.io/badge/-Retro-blue) ![img](https://img.shields.io/badge/-Message%20Fusion-orange) ![img](https://img.shields.io/badge/-Corpus%20Knowledge-green)
   *Sebastian Borgeaud, Arthur Mensch, Jordan Hoffmann, Trevor Cai, Eliza Rutherford, Katie Millican, George van den Driessche, Jean-Baptiste Lespiau, Bogdan Damoc, Aidan Clark, Diego de Las Casas, Aurelia Guy, Jacob Menick, Roman Ring, Tom Hennigan, Saffron Huang, Loren Maggiore, Chris Jones, Albin Cass
   
-- **[REALM: retrieval-augmented language model pre-training](https://dl.acm.org/doi/pdf/10.5555/3524938.3525306)**, 2020.07 ![img](https://img.shields.io/badge/-REALM-blue) ![img](https://img.shields.io/badge/-Message%20Fusion-orange) ![img](https://img.shields.io/badge/-Natural%20Language-lightgrey) ![img](https://img.shields.io/badge/-Corpus%20Knowledge-green)
+- **[REALM: retrieval-augmented language model pre-training](https://dl.acm.org/doi/pdf/10.5555/3524938.3525306)**, 2020.07 ![img](https://img.shields.io/badge/-REALM-blue) ![img](https://img.shields.io/badge/-Message%20Fusion-orange) ![img](https://img.shields.io/badge/-Corpus%20Knowledge-green)
   *Kelvin Guu, Kenton Lee, Zora Tung, Panupong Pasupat, Ming-Wei Chang*
 
-- **[KELM: Knowledge Enhanced Pre-Trained Language Representations with Message Passing on Hierarchical Relational Graphs](https://openreview.net/pdf?id=FkG-sX5CE_)**, 2022.04 ![img](https://img.shields.io/badge/-KELM-blue) ![img](https://img.shields.io/badge/-Message%20Fusion-orange) ![img](https://img.shields.io/badge/-Natural%20Language-lightgrey) ![img](https://img.shields.io/badge/-Corpus%20Knowledge-green)
+- **[KELM: Knowledge Enhanced Pre-Trained Language Representations with Message Passing on Hierarchical Relational Graphs](https://openreview.net/pdf?id=FkG-sX5CE_)**, 2022.04 ![img](https://img.shields.io/badge/-KELM-blue) ![img](https://img.shields.io/badge/-Message%20Fusion-orange) ![img](https://img.shields.io/badge/-Corpus%20Knowledge-green)
   *Yinquan Lu, Haonan Lu, Guirong Fu, Qun Liu*
 
 - **[K-Adapter: Infusing Knowledge into Pre-Trained Models with Adapters](https://aclanthology.org/2021.findings-acl.121.pdf)**, 2021.06 ![img](https://img.shields.io/badge/-K--Adapter-blue) ![img](https://img.shields.io/badge/-Parameter%20Efficient%20Fine--Tuning-orange) ![img](https://img.shields.io/badge/-Formal%20Language-lightgrey) ![img](https://img.shields.io/badge/-Corpus%20Knowledge-green)
   *Ruize Wang, Duyu Tang, Nan Duan, Zhongyu Wei, Xuanjing Huang, Jianshu Ji, Guihong Cao, Daxin Jiang, Ming Zhou*
 
-- **[Binding Language Models in Symbolic Languages](https://arxiv.org/pdf/2210.02875.pdf)**, 2023.05 ![img](https://img.shields.io/badge/-Binder-blue) ![img](https://img.shields.io/badge/-Elicitive%20Prompting-orange) ![img](https://img.shields.io/badge/-Formal%20Language-lightgrey) ![img](https://img.shields.io/badge/-Internet%20Knowledge-green)
+- **[Binding Language Models in Symbolic Languages](https://arxiv.org/pdf/2210.02875.pdf)**, 2023.05 ![img](https://img.shields.io/badge/-Binder-blue) ![img](https://img.shields.io/badge/-Elicitive%20Prompting-orange) ![img](https://img.shields.io/badge/-Formal%20Language-lightgrey) ![img](https://img.shields.io/badge/-Corpus%20Knowledge-green)
   *Zhoujun Cheng, Tianbao Xie, Peng Shi, Chengzu Li, Rahul Nadkarni, Yushi Hu, Caiming Xiong, Dragomir Radev, Mari Ostendorf, Luke Zettlemoyer, Noah A. Smith, Tao Yu*
 
-- **[Teaching language models to support answers with verified quotes](https://arxiv.org/pdf/2203.11147.pdf)**, 2022.03 ![img](https://img.shields.io/badge/-GopherCite-blue) ![img](https://img.shields.io/badge/-Reinforcement%20Learning-orange) ![img](https://img.shields.io/badge/-Natural%20Language-lightgrey) ![img](https://img.shields.io/badge/-Internet%20Knowledge-green)
+- **[Teaching language models to support answers with verified quotes](https://arxiv.org/pdf/2203.11147.pdf)**, 2022.03 ![img](https://img.shields.io/badge/-GopherCite-blue) ![img](https://img.shields.io/badge/-Reinforcement%20Learning-orange) ![img](https://img.shields.io/badge/-Internet%20Knowledge-green)
   *Jacob Menick, Maja Trebacz, Vladimir Mikulik, John Aslan
 
-- **[ERNIE: Enhanced Representation through Knowledge Integration](https://arxiv.org/pdf/1904.09223)**, 2019.04 ![img](https://img.shields.io/badge/-ERNIE-blue) ![img](https://img.shields.io/badge/-Parameter%20Efficient%20Fine--Tuning-orange) ![img](https://img.shields.io/badge/-Natural%20Language-lightgrey) ![img](https://img.shields.io/badge/-Corpus%20Knowledge-green)
+- **[ERNIE: Enhanced Representation through Knowledge Integration](https://arxiv.org/pdf/1904.09223)**, 2019.04 ![img](https://img.shields.io/badge/-ERNIE-blue) ![img](https://img.shields.io/badge/-Corpus%20Knowledge-green)
   *Yu Sun, Shuohuan Wang, Yukun Li, Shikun Feng, Xuyi Chen, Han Zhang, Xin Tian, Danxiang Zhu, Hao Tian, Hua Wu*
 
-- **[K-BERT: Enabling Language Representation with Knowledge Graph](https://ojs.aaai.org/index.php/AAAI/article/view/5681/5537)**, 2020.02 ![img](https://img.shields.io/badge/-K--BERT-blue) ![img](https://img.shields.io/badge/-Message%20Fusion-orange) ![img](https://img.shields.io/badge/-Natural%20Language-lightgrey) ![img](https://img.shields.io/badge/-Corpus%20Knowledge-green)
+- **[K-BERT: Enabling Language Representation with Knowledge Graph](https://ojs.aaai.org/index.php/AAAI/article/view/5681/5537)**, 2020.02 ![img](https://img.shields.io/badge/-K--BERT-blue) ![img](https://img.shields.io/badge/-Message%20Fusion-orange) ![img](https://img.shields.io/badge/-Corpus%20Knowledge-green)
   *Weijie Liu, Peng Zhou, Zhe Zhao, Zhiruo Wang, Qi Ju, Haotang Deng, Ping Wang*
 
-- **[Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/pdf/2005.11401)**, 2020.12 ![img](https://img.shields.io/badge/-RAG-blue) ![img](https://img.shields.io/badge/-Parameter%20Efficient%20Fine--Tuning-orange) ![img](https://img.shields.io/badge/-Natural%20Language-lightgrey) ![img](https://img.shields.io/badge/-Corpus%20Knowledge-green)
+- **[Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/pdf/2005.11401)**, 2020.12 ![img](https://img.shields.io/badge/-RAG-blue) ![img](https://img.shields.io/badge/-Corpus%20Knowledge-green)
   *Patrick Lewis, Ethan Perez, Aleksandra Piktus, Fabio Petroni, Vladimir Karpukhin, Naman Goyal, Heinrich Küttler, Mike Lewis, Wen-tau Yih, Tim Rocktäschel, Sebastian Riedel, Douwe Kiela*
 
-- **[DocPrompting: Generating Code by Retrieving the Docs](https://openreview.net/pdf?id=ZTCxT2t2Ru)**, 2023.05 ![img](https://img.shields.io/badge/-DocPrompting-blue) ![img](https://img.shields.io/badge/-Elicitive%20Prompting-orange) ![img](https://img.shields.io/badge/-Formal%20Language-lightgrey) ![img](https://img.shields.io/badge/-Internet%20Knowledge-green)
+- **[DocPrompting: Generating Code by Retrieving the Docs](https://openreview.net/pdf?id=ZTCxT2t2Ru)**, 2023.05 ![img](https://img.shields.io/badge/-DocPrompting-blue) ![img](https://img.shields.io/badge/-Standard%20Prompting-orange) ![img](https://img.shields.io/badge/-Formal%20Language-lightgrey) ![img](https://img.shields.io/badge/-Internet%20Knowledge-green)
   *Shuyan Zhou, Uri Alon, Frank F. Xu, Zhiruo Wang, Zhengbao Jiang, Graham Neubig*
 
-- **[Recitation-Augmented Language Models](https://openreview.net/pdf?id=-cqvvvb-NkI)**, 2023.05 ![img](https://img.shields.io/badge/-RECITE-blue) ![img](https://img.shields.io/badge/-Elicitive%20Prompting-orange) ![img](https://img.shields.io/badge/-Natural%20Language-lightgrey) ![img](https://img.shields.io/badge/-Corpus%20Knowledge-green)
+- **[Recitation-Augmented Language Models](https://openreview.net/pdf?id=-cqvvvb-NkI)**, 2023.05 ![img](https://img.shields.io/badge/-RECITE-blue) ![img](https://img.shields.io/badge/-Elicitive%20Prompting-orange)![img](https://img.shields.io/badge/-Corpus%20Knowledge-green)
   *Zhiqing Sun, Xuezhi Wang, Yi Tay, Yiming Yang, Denny
 
-- **[Mind's Eye: Grounded Language Model Reasoning through Simulation](https://openreview.net/pdf?id=4rXMRuoJlai)**, 2023.05 ![img](https://img.shields.io/badge/-Mind%E2%80%99s%20Eye-blue) ![img](https://img.shields.io/badge/-Elicitive%20Prompting-orange) ![img](https://img.shields.io/badge/-Formal%20Language-lightgrey) ![img](https://img.shields.io/badge/-Internet%20Knowledge-green)
+- **[Mind's Eye: Grounded Language Model Reasoning through Simulation](https://openreview.net/pdf?id=4rXMRuoJlai)**, 2023.05 ![img](https://img.shields.io/badge/-Mind%E2%80%99s%20Eye-blue) ![img](https://img.shields.io/badge/-Elicitive%20Prompting-orange) ![img](https://img.shields.io/badge/-Formal%20Language-lightgrey)
   *Ruibo Liu, Jason Wei, Shixiang Shane Gu, Te-Yen Wu, Soroush Vosoughi, Claire Cui, Denny Zhou, Andrew M Dai*
 
-- **[Don't Generate, Discriminate: A Proposal for Grounding Language Models to Real-World Environments](https://arxiv.org/pdf/2212.09736)**, 2023.10 ![img](https://img.shields.io/badge/-Pangu-blue) ![img](https://img.shields.io/badge/-Message%20Fusion-orange) ![img](https://img.shields.io/badge/-Natural%20Language-lightgrey) ![img](https://img.shields.io/badge/-Internet%20Knowledge-green)
+- **[Don't Generate, Discriminate: A Proposal for Grounding Language Models to Real-World Environments](https://arxiv.org/pdf/2212.09736)**, 2023.10 ![img](https://img.shields.io/badge/-Pangu-blue) ![img](https://img.shields.io/badge/-Message%20Fusion-orange) ![img](https://img.shields.io/badge/-Internet%20Knowledge-green)
   *Yu Gu, Xiang Deng, Yu Su*
 
-- **[Check Your Facts and Try Again: Improving Large Language Models with External Knowledge and Automated Feedback](https://arxiv.org/pdf/2302.12813)**, 2023.02 ![img](https://img.shields.io/badge/-LLM--Augmenter-blue) ![img](https://img.shields.io/badge/-Prompt%20Chaining-orange) ![img](https://img.shields.io/badge/-Natural%20Language-lightgrey) ![img](https://img.shields.io/badge/-Internet%20Knowledge-green)
+- **[Check Your Facts and Try Again: Improving Large Language Models with External Knowledge and Automated Feedback](https://arxiv.org/pdf/2302.12813)**, 2023.02 ![img](https://img.shields.io/badge/-LLM--Augmenter-blue) ![img](https://img.shields.io/badge/-Prompt%20Chaining-orange) ![img](https://img.shields.io/badge/-Internet%20Knowledge-green)
   *Baolin Peng, Michel Galley, Pengcheng He, Hao Cheng, Yujia Xie, Yu Hu, Qiuyuan Huang, Lars Liden, Zhou Yu, Weizhu Chen, Jianfeng Gao*
 
 ### 🤖Model/🛠Tool-LM Interaction
