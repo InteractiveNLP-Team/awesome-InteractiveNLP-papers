@@ -440,6 +440,10 @@ In iNLP, language models can interact with four kinds of objects (i.e., entities
 
 - There are cases where we miss important works in this field, please contribute to this repo! Thanks for the efforts in advance.
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=InteractiveNLP-Team/awesome-InteractiveNLP-papers&type=Date)](https://star-history.com/#InteractiveNLP-Team/awesome-InteractiveNLP-papers&Date)
+
 ## Citation
 If you find this paper list helpful, please consider citing our paper:
 
