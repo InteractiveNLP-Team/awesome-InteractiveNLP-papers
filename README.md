@@ -348,7 +348,7 @@ In iNLP, language models can interact with four kinds of objects (i.e., entities
 
   *Yingqiang Ge, Wenyue Hua, Jianchao Ji, Juntao Tan, Shuyuan Xu, Yongfeng Zhang*.
 
-- **[MM-ReAct](https://arxiv.org/pdf/2303.11381v1.pdf)**, 2023.03 ![img](https://img.shields.io/badge/-MM--ReAct-blue) ![img](https://img.shields.io/badge/-Prompt%20Chaining-orange) ![img](https://img.shields.io/badge/Tool--use-green)
+- **[MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action](https://arxiv.org/pdf/2303.11381v1.pdf)**, 2023.03 ![img](https://img.shields.io/badge/-MM--ReAct-blue) ![img](https://img.shields.io/badge/-Prompt%20Chaining-orange) ![img](https://img.shields.io/badge/Tool--use-green)
 
   *Zhengyuan Yang, Linjie Li, JianFeng Wang, Kevin Lin, Ehsan Azarnasab, Faisal Ahmed, Zicheng Liu, Ce Liu, Michael Zeng, Lijuan Wang*.
 
@@ -412,6 +412,7 @@ In iNLP, language models can interact with four kinds of objects (i.e., entities
 ### 🌎Environment-LM Interaction
 
 ### 👍Evaluation
+
 
 
 ### 🎨Application
