@@ -412,6 +412,45 @@ In iNLP, language models can interact with four kinds of objects (i.e., entities
 ### 🌎Environment-LM Interaction
 
 ### 👍Evaluation
+- **[Evaluating Human-Language Model Interaction](https://arxiv.org/pdf/2212.09746.pdf)**, 2022.12 ![img](https://img.shields.io/badge/-HALIE-blue) ![img](https://img.shields.io/badge/Human--LM%20Interaction-green)
+
+  *Mina Lee, Megha Srivastava, Amelia Hardy, John Thickstun, Esin Durmus, Ashwin Paranjape, Ines Gerard-Ursin, Xiang Lisa Li, Faisal Ladhak, Frieda Rong, Rose E. Wang, Minae Kwon, Joon Sung Park, Hancheng Cao, Tony Lee, Rishi Bommasani, Michael Bernstein, Percy Lia*.
+
+- **[ReCEval: Evaluating Reasoning Chains via Correctness and Informativeness](https://arxiv.org/pdf/2304.10703.pdf)**, 2023.04 ![img](https://img.shields.io/badge/-ReCEval-blue) ![img](https://img.shields.io/badge/-Prompt%20Chaining-orange) ![img](https://img.shields.io/badge/CoT-green)
+
+  *Archiki Prasad, Swarnadeep Saha, Xiang Zhou, Mohit Bansa*.
+
+- **[Evaluating Verifiability in Generative Search Engines](https://arxiv.org/pdf/2304.09848.pdf)**, 2023.04 
+
+  *Liu, Nelson F., Zhang, Tianyi, Liang, Percy Lian*.
+
+- **[Multi-Party Chat: Conversational Agents in Group Settings with Humans and Models](https://arxiv.org/pdf/2304.13835.pdf)**, 2023.04 ![img](https://img.shields.io/badge/-Multi--Party%20Chat-blue) ![img](https://img.shields.io/badge/Communicative%20Agents-green)
+
+  *Jimmy Wei, Kurt Shuster, Arthur Szlam, Jason Weston, Jack Urbanek, Mojtaba Komeili*.
+
+- **[Behavior-1k: A benchmark for embodied ai with 1,000 everyday activities and realistic simulation](https://proceedings.mlr.press/v205/li23a/li23a.pdf)**, 2023.03 ![img](https://img.shields.io/badge/-Behavior--1k-blue) ![img](https://img.shields.io/badge/Embodied%20AI-green)
+
+  *Chengshu Li, Ruohan Zhang, Josiah Wong, Cem Gokmen, Sanjana Srivastava, Roberto Martín-Martín, Chen Wang, Gabrael Levine, Michael Lingelbach, Jiankai Sun, Mona Anvari, Minjune Hwang, Manasi Sharma, Arman Aydin, Dhruva Bansal, Samuel Hunter, Kyu-Young Kim, Alan Lou, Caleb R Matthews, Ivan Villa-Renteria, Jerry Huayang Tang, Claire Tang, Fei Xia, Silvio Savarese, Hyowon Gweon, Karen Liu, Jiajun Wu, Li Fei-Fei*.
+
+- **[ORBIT: A Unified Simulation Framework for Interactive Robot Learning Environments](https://arxiv.org/pdf/2301.04195.pdf)**, 2023.01 ![img](https://img.shields.io/badge/-ORBIT-blue) ![img](https://img.shields.io/badge/Embodied%20AI-green)
+
+  *Mayank Mittal, Calvin Yu, Qinxi Yu, Jingzhou Liu, Nikita Rudin, David Hoeller, Jia Lin Yuan, Pooria Poorsarvi Tehrani, Ritvik Singh, Yunrong Guo, Hammad Mazhar, Ajay Mandlekar, Buck Babich, Gavriel State, Marco Hutter, Animesh Garg*.
+
+- **[Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering](https://arxiv.org/pdf/2209.09513.pdf)**, 2022.09 ![img](https://img.shields.io/badge/-ScienceQA-blue) ![img](https://img.shields.io/badge/CoT-green)
+
+  *Pan Lu, Swaroop Mishra, Tony Xia, Liang Qiu, Kai-Wei Chang, Song-Chun Zhu, Oyvind Tafjord, Peter Clark, Ashwin Kalyan*.
+
+- **[Alexa Arena: A User-Centric Interactive Platform for Embodied AI](https://arxiv.org/pdf/2303.01586.pdf)**, 2023.03 ![img](https://img.shields.io/badge/-Alexa%20Arena-blue) ![img](https://img.shields.io/badge/Embodied%20AI-green)
+
+  *Qiaozi Gao, Govind Thattai, Xiaofeng Gao, Suhaila Shakiah, Shreyas Pansare, Vasu Sharma, Gaurav Sukhatme, Hangjie Shi, Bofei Yang, Desheng Zheng, Lucy Hu, Karthika Arumugam, Shui Hu, Matthew Wen, Dinakar Guthy, Cadence Chung, Rohan Khanna, Osman Ipek, Leslie Ball, Kate Bland, Heather Rocker, Yadunandana Rao, Michael Johnston, Reza Ghanadan, Arindam Mandal, Dilek Hakkani Tur, Prem Natarajan*.
+
+- **[CB2: Collaborative Natural Language Interaction Research Platform](https://arxiv.org/pdf/2303.08127.pdf)**, 2023.03 ![img](https://img.shields.io/badge/-CB2-blue) ![img](https://img.shields.io/badge/-Natural%20Language-lightgrey) ![img](https://img.shields.io/badge/Collaborative%20Behavior-green)
+
+  *Jacob Sharf, Mustafa Omer Gul, Yoav Artzi*.
+
+- **[An AI Dungeon Master’s Guide: Learning to Converse and Guide with Intents and Theory-of-Mind in Dungeons and Dragons](https://arxiv.org/pdf/2212.10060.pdf)**, 2022.12 ![img](https://img.shields.io/badge/Game,%20Theory--of--Mind-green)
+
+  *Pei Zhou, Andrew Zhu, Jennifer Hu, Jay Pujara, Xiang Ren, Chris Callison-Burch, Yejin Choi, Prithviraj Ammanabrolu*.
 
 
 
