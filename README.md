@@ -410,6 +410,110 @@ In iNLP, language models can interact with four kinds of objects (i.e., entities
 
 
 ### 🌎Environment-LM Interaction
+- **[BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](https://arxiv.org/abs/2301.12597)**, 2023.01 ![img](https://img.shields.io/badge/-BLIP--2-blue) ![img](https://img.shields.io/badge/-Semi--Supervised%20Fine--Tuning-orange) ![img](https://img.shields.io/badge/-Machine%20Language-lightgrey) ![img](https://img.shields.io/badge/Modality%20Grounding-green)
+
+  *Junnan Li, Dongxu Li, Silvio Savarese, Steven Hoi*.
+
+- **[Do As I Can, Not As I Say: Grounding Language in Robotic Affordances](https://arxiv.org/abs/2204.01691)**, 2022.04 ![img](https://img.shields.io/badge/-SayCan-blue) ![img](https://img.shields.io/badge/-Reinforcement%20Learning-orange) ![img](https://img.shields.io/badge/Affordance%20Grounding-green)
+
+  *Michael Ahn, Anthony Brohan, Noah Brown, Yevgen Chebotar, Omar Cortes, Byron David, Chelsea Finn, Chuyuan Fu, Keerthana Gopalakrishnan, Karol Hausman, Alex Herzog, Daniel Ho, Jasmine Hsu, Julian Ibarz, Brian Ichter, Alex Irpan, Eric Jang, Rosario Jauregui Ruano, Kyle Jeffrey, Sally Jesmonth, Nikhil J Joshi, Ryan Julian, Dmitry Kalashnikov, Yuheng Kuang, Kuang-Huei Lee, Sergey Levine, Yao Lu, Linda Luu, Carolina Parada, Peter Pastor, Jornell Quiambao, Kanishka Rao, Jarek Rettinghouse, Diego Reyes, Pierre Sermanet, Nicolas Sievers, Clayton Tan, Alexander Toshev, Vincent Vanhoucke, Fei Xia, Ted Xiao, Peng Xu, Sichun Xu, Mengyuan Yan, Andy Zeng*.
+
+- **[RT-1: Robotics Transformer for Real-World Control at Scale](https://arxiv.org/abs/2212.06817)**, 2022.12 ![img](https://img.shields.io/badge/-RT--1-blue)![img](https://img.shields.io/badge/Foundation%20Model-green)
+
+  *Anthony Brohan, Noah Brown, Justice Carbajal, Yevgen Chebotar, Joseph Dabis, Chelsea Finn, Keerthana Gopalakrishnan, Karol Hausman, Alex Herzog, Jasmine Hsu, Julian Ibarz, Brian Ichter, Alex Irpan, Tomas Jackson, Sally Jesmonth, Nikhil J Joshi, Ryan Julian, Dmitry Kalashnikov, Yuheng Kuang, Isabel Leal, Kuang-Huei Lee, Sergey Levine, Yao Lu, Utsav Malla, Deeksha Manjunath, Igor Mordatch, Ofir Nachum, Carolina Parada, Jodilyn Peralta, Emily Perez, Karl Pertsch, Jornell Quiambao, Kanishka Rao, Michael Ryoo, Grecia Salazar, Pannag Sanketi, Kevin Sayed, Jaspiar Singh, Sumedh Sontakke, Austin Stone, Clayton Tan, Huong Tran, Vincent Vanhoucke, Steve Vega, Quan Vuong, Fei Xia, Ted Xiao, Peng Xu, Sichun Xu, Tianhe Yu, Brianna Zitkovich*.
+
+- **[PaLM-E: An Embodied Multimodal Language Model](https://arxiv.org/abs/2303.03378)**, 2023.03 ![img](https://img.shields.io/badge/-PaLM--E-blue)![img](https://img.shields.io/badge/Foundation%20Model-green)
+
+  *Danny Driess, Fei Xia, Mehdi S. M. Sajjadi, Corey Lynch, Aakanksha Chowdhery, Brian Ichter, Ayzaan Wahid, Jonathan Tompson, Quan Vuong, Tianhe Yu, Wenlong Huang, Yevgen Chebotar, Pierre Sermanet, Daniel Duckworth, Sergey Levine, Vincent Vanhoucke, Karol Hausman, Marc Toussaint, Klaus Greff, Andy Zeng, Igor Mordatch, Pete Florence*.
+
+- **[Grounded decoding: Guiding text generation with grounded models for robot control](https://arxiv.org/abs/2303.00855)**, 2023.03 ![img](https://img.shields.io/badge/Grounded%20Decoding-blue) ![img](https://img.shields.io/badge/-Natural%20Language-lightgrey) ![img](https://img.shields.io/badge/Affordance%20Grounding-green)
+
+  *Wenlong Huang, Fei Xia, Dhruv Shah, Danny Driess, Andy Zeng, Yao Lu, Pete Florence, Igor Mordatch, Sergey Levine, Karol Hausman, Brian Ichter*.
+
+- **[Inner monologue: Embodied reasoning through planning with language models.](https://arxiv.org/abs/2207.05608)**, 2022.07 ![img](https://img.shields.io/badge/Inner%20Monologue-blue)![img](https://img.shields.io/badge/Prompt%20Chaining-orange) ![img](https://img.shields.io/badge/-Natural%20Language-lightgrey)
+
+  *Wenlong Huang, Fei Xia, Ted Xiao, Harris Chan, Jacky Liang, Pete Florence, Andy Zeng, Jonathan Tompson, Igor Mordatch, Yevgen Chebotar, Pierre Sermanet, Noah Brown, Tomas Jackson, Linda Luu, Sergey Levine, Karol Hausman, Brian Ichter*.
+
+- **[Code as Policies: Language Model Programs for Embodied Control](https://arxiv.org/abs/2209.07753)**, 2022.09 ![img](https://img.shields.io/badge/Code%20as%20Policies-blue)![img](https://img.shields.io/badge/-Elicitive%20Prompting-orange) ![img](https://img.shields.io/badge/-Formal%20Language-lightgrey)
+
+  *Jacky Liang, Wenlong Huang, Fei Xia, Peng Xu, Karol Hausman, Brian Ichter, Pete Florence, Andy Zeng*.
+
+- **[Open-vocabulary Queryable Scene Representations for Real World Planning](https://arxiv.org/abs/2209.09874)**, 2022.09 ![img](https://img.shields.io/badge/-NLMap-blue) ![img](https://img.shields.io/badge/-Active%20Learning-orange) ![img](https://img.shields.io/badge/-Natural%20Language-lightgrey) ![img](https://img.shields.io/badge/Affordance%20Grounding-green)
+
+  *Boyuan Chen, Fei Xia, Brian Ichter, Kanishka Rao, Keerthana Gopalakrishnan, Michael S. Ryoo, Austin Stone, Daniel Kappler*.
+
+- **[Plan4MC: Skill Reinforcement Learning and Planning for Open-World Minecraft Tasks](https://arxiv.org/abs/2303.16563)**, 2023.03 ![img](https://img.shields.io/badge/-Plan4MC-blue) ![img](https://img.shields.io/badge/-Reinforcement%20Learning-orange) ![img](https://img.shields.io/badge/-Formal%20Language-lightgrey) ![img](https://img.shields.io/badge/Affordance%20Grounding-green)
+
+  *Haoqi Yuan, Chi Zhang, Hongcheng Wang, Feiyang Xie, Penglin Cai, Hao Dong, Zongqing Lu*.
+
+- **[MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge](https://arxiv.org/abs/2206.08853)**, 2022.06 ![img](https://img.shields.io/badge/-MineDojo-blue) ![img](https://img.shields.io/badge/-Active%20Learning,%20Reinforcement%20Learning-orange) ![img](https://img.shields.io/badge/-Natural%20Language-lightgrey)
+
+  *Linxi Fan, Guanzhi Wang, Yunfan Jiang, Ajay Mandlekar, Yuncong Yang, Haoyi Zhu, Andrew Tang, De-An Huang, Yuke Zhu, Anima Anandkumar*.
+
+- **[Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language](https://arxiv.org/abs/2204.00598)**, 2022.04 ![img](https://img.shields.io/badge/Socratic%20Models-blue)![img](https://img.shields.io/badge/-Prompt%20Chaining-orange) ![img](https://img.shields.io/badge/-Natural%20Language%20,%20Shared%20Memory-lightgrey) ![img](https://img.shields.io/badge/Modality%20Grounding-green)
+
+  *Andy Zeng, Maria Attarian, Brian Ichter, Krzysztof Choromanski, Adrian Wong, Stefan Welker, Federico Tombari, Aveek Purohit, Michael Ryoo, Vikas Sindhwani, Johnny Lee, Vincent Vanhoucke, Pete Florence*.
+
+- **[Interactive Language: Talking to Robots in Real Time](https://arxiv.org/abs/2210.06407)**, 2022.10 ![img](https://img.shields.io/badge/Interactive%20Language-blue)![img](https://img.shields.io/badge/-Imitation%20Learning-orange) ![img](https://img.shields.io/badge/-Natural%20Language-lightgrey)
+
+  *Corey Lynch, Ayzaan Wahid, Jonathan Tompson, Tianli Ding, James Betker, Robert Baruch, Travis Armstrong, Pete Florence*.
+
+- **[LM-Nav: Robotic Navigation with Large Pre-Trained Models of Language, Vision, and Action](https://arxiv.org/abs/2207.04429)**, 2022.07 ![img](https://img.shields.io/badge/LM--Nav-blue)![img](https://img.shields.io/badge/-Prompt%20Chaining-orange)
+
+  *Dhruv Shah, Blazej Osinski, Brian Ichter, Sergey Levine*.
+
+- **[WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents](https://arxiv.org/abs/2207.01206)**, 2022.07 ![img](https://img.shields.io/badge/WebShop-blue)![img](https://img.shields.io/badge/-Reinforcement%20Learning,%20Prompt%20Chaining-orange) ![img](https://img.shields.io/badge/-Natural%20Language,%20Formal%20Language-lightgrey) ![img](https://img.shields.io/badge/Affordance%20Grounding,%20Tool--use-green)
+
+  *Shunyu Yao, Howard Chen, John Yang, Karthik Narasimhan*.
+
+- **[Improving Multimodal Interactive Agents with Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2211.11602)**, 2022.11 ![img](https://img.shields.io/badge/-Reinforcement%20Learning-orange)
+
+  *Josh Abramson, Arun Ahuja, Federico Carnevale, Petko Georgiev, Alex Goldin, Alden Hung, Jessica Landon, Jirka Lhotka, Timothy Lillicrap, Alistair Muldal, George Powell, Adam Santoro, Guy Scully, Sanjana Srivastava, Tamara von Glehn, Greg Wayne, Nathaniel Wong, Chen Yan, Rui Zhu*.
+
+- **[VIMA: General Robot Manipulation with Multimodal Prompts](https://arxiv.org/abs/2210.03094)**, 2022.10 ![img](https://img.shields.io/badge/-VIMA-blue) ![img](https://img.shields.io/badge/-Message%20Fusion-orange) ![img](https://img.shields.io/badge/Foundation%20Model-green)
+
+  *Yunfan Jiang, Agrim Gupta, Zichen Zhang, Guanzhi Wang, Yongqiang Dou, Yanjun Chen, Li Fei-Fei, Anima Anandkumar, Yuke Zhu, Linxi Fan*.
+
+- **[PIGLeT: Language Grounding Through Neuro-Symbolic Interaction in a 3D World](https://arxiv.org/abs/2106.00188)**, 2021.06 ![img](https://img.shields.io/badge/-PIGLeT-blue) ![img](https://img.shields.io/badge/-Standard%20Prompting-orange) ![img](https://img.shields.io/badge/-Natural%20Language-lightgrey)
+
+  *Rowan Zellers, Ari Holtzman, Matthew Peters, Roozbeh Mottaghi, Aniruddha Kembhavi, Ali Farhadi, Yejin Choi*.
+
+- **[Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents](https://arxiv.org/abs/2302.01560)**, 2023.02 ![img](https://img.shields.io/badge/-Prompt%20Chaining,%20Reinforcement%20Learning-orange) ![img](https://img.shields.io/badge/-Formal%20Language,%20Natural%20Language-lightgrey)
+
+  *Zihao Wang, Shaofei Cai, Anji Liu, Xiaojian Ma, Yitao Liang*.
+
+- **[ProgPrompt: Generating Situated Robot Task Plans using Large Language Models](https://arxiv.org/abs/2209.11302)**, 2022.09 ![img](https://img.shields.io/badge/-ProgPrompt-blue) ![img](https://img.shields.io/badge/-Elicitive%20Prompting,%20Prompt%20Chaining-orange) ![img](https://img.shields.io/badge/-Formal%20Language-lightgrey) ![img](https://img.shields.io/badge/Affordance%20Grounding-green)
+
+  *Ishika Singh, Valts Blukis, Arsalan Mousavian, Ankit Goyal, Danfei Xu, Jonathan Tremblay, Dieter Fox, Jesse Thomason, Animesh Garg*.
+
+- **[Plan,Eliminate,and Track-Language Models are Good Teachers for Embodied Agents.](https://arxiv.org/abs/2305.02412)**, 2023.05 ![img](https://img.shields.io/badge/-Standard%20Prompting,%20Prompt%20Chaining-orange) ![img](https://img.shields.io/badge/-Natural%20Language-lightgrey) ![img](https://img.shields.io/badge/Affordance%20Grounding-green)
+
+  *Yue Wu, So Yeon Min, Yonatan Bisk, Ruslan Salakhutdinov, Amos Azaria, Yuanzhi Li, Tom Mitchell, Shrimai Prabhumoye*.
+
+- **[Collaborating with language models for embodied reasoning](https://arxiv.org/abs/2302.00763)**, 2023.02 ![img](https://img.shields.io/badge/Planner--Actor--Reporter-blue)![img](https://img.shields.io/badge/-Reinforcement%20Learning,%20Prompt%20Chaining-orange) ![img](https://img.shields.io/badge/-Natural%20Language-lightgrey)
+
+  *Ishita Dasgupta, Christine Kaeser-Chen, Kenneth Marino, Arun Ahuja, Sheila Babayan, Felix Hill, Rob Fergus*.
+
+- **[Open-World Object Manipulation using Pre-trained Vision-Language Models](https://arxiv.org/abs/2303.00905)**, 2023.03 ![img](https://img.shields.io/badge/-MOO-blue)
+
+  *Austin Stone, Ted Xiao, Yao Lu, Keerthana Gopalakrishnan, Kuang-Huei Lee, Quan Vuong, Paul Wohlhart, Brianna Zitkovich, Fei Xia, Chelsea Finn, Karol Hausman*.
+
+- **[Mind's Eye: Grounded Language Model Reasoning through Simulation](https://arxiv.org/abs/2210.05359)**, 2022.10 ![img](https://img.shields.io/badge/-Elicitive%20Prompting-orange) ![img](https://img.shields.io/badge/-Formal%20Language-lightgrey)
+
+  *Ruibo Liu, Jason Wei, Shixiang Shane Gu, Te-Yen Wu, Soroush Vosoughi, Claire Cui, Denny Zhou, Andrew M. Dai*.
+
+- **[Guiding Pretraining in Reinforcement Learning with Large Language Models](https://arxiv.org/abs/2302.06692)**, 2023.02 ![img](https://img.shields.io/badge/-ELLM-blue) ![img](https://img.shields.io/badge/-Reinforcement%20Learning-orange) ![img](https://img.shields.io/badge/-Natural%20Language-lightgrey)
+
+  *Yuqing Du, Olivia Watkins, Zihan Wang, Cédric Colas, Trevor Darrell, Pieter Abbeel, Abhishek Gupta, Jacob Andreas*.
+
+- **[Grounding Large Language Models in Interactive Environments with Online Reinforcement Learning](https://arxiv.org/abs/2302.02662)**, 2023.02 ![img](https://img.shields.io/badge/-GLAM-blue)![img](https://img.shields.io/badge/-Reinforcement%20Learning-orange) ![img](https://img.shields.io/badge/-Natural%20Language-lightgrey) ![img](https://img.shields.io/badge/Affordance%20Grounding-green)
+
+  *Thomas Carta, Clément Romac, Thomas Wolf, Sylvain Lamprier, Olivier Sigaud, Pierre-Yves Oudeyer*.
+
+- **[Don't Generate, Discriminate: A Proposal for Grounding Language Models to Real-World Environments](https://arxiv.org/abs/2212.09736)**, 2022.12 ![img](https://img.shields.io/badge/-Prompt%20Chaining-orange)
+
+  *Yu Gu, Xiang Deng, Yu Su*.
+
 
 ### 👍Evaluation
 - **[Evaluating Human-Language Model Interaction](https://arxiv.org/pdf/2212.09746.pdf)**, 2022.12 ![img](https://img.shields.io/badge/-HALIE-blue) ![img](https://img.shields.io/badge/Human--LM%20Interaction-green)
