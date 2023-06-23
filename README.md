@@ -572,6 +572,7 @@ In iNLP, language models can interact with four kinds of objects (i.e., entities
 - **[LangChain](https://github.com/hwchase17/langchain)**
 - **[AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT)**
 - **[BabyAGI](https://github.com/yoheinakajima/babyagi)**
+- **[Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models#multimodal-in-context-learning)**
 
 
 
